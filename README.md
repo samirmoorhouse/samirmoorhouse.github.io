@@ -1,2 +1,2 @@
-# DiagnosingCancer.github.io
+Diagnosing Cancer
 Diagnosing Cancer PinS Digital Media Project
